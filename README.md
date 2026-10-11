@@ -60,4 +60,5 @@ Durée d'exécution : environ 1 minute (la grille Nx = 800 de l'analyse de conve
 
 ## Auteur
 
-**Alexandre Magnan** — ESTP Paris
+**Alexandre Magnan** —
+
