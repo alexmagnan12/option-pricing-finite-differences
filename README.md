@@ -27,13 +27,13 @@ Plus : calcul des **Greeks** (Delta, Gamma, Vega) et **analyse de convergence**.
 
 | Comparaison FDM vs Black-Scholes | Option barrière |
 |---|---|
-| ![](figures/case1_call.png) | ![](figures/case4_barrier.png) |
+| ![FDM vs BS](case1_call.png) | ![Barrier](case4_barrier.png) |
 
 | Volatilité locale | Basket option 2D |
 |---|---|
-| ![](figures/case3_local_vol.png) | ![](figures/case5_basket_2d.png) |
+| ![Local vol](case3_local_vol.png) | ![Basket 2D](case5_basket_2d.png) |
 
-![Greeks](figures/greeks.png)
+![Greeks](greeks.png)
 
 ### Convergence — ordre O(Δx²) vérifié
 
@@ -47,7 +47,7 @@ Plus : calcul des **Greeks** (Delta, Gamma, Vega) et **analyse de convergence**.
 
 L'erreur est divisée par 4 à chaque doublement de la grille.
 
-![Convergence](figures/convergence.png)
+![Convergence](convergence.png)
 
 ## Lancer le code
 
